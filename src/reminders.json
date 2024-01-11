@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Weekly Check-ins",
+    "schedule": "35 03 * * *",
+    "humanReadableSchedule": "Weekly Wednesdays at 8pm",
+    "message": "Weekly Check In! How is everyone doing recently? :)",
+    "image": ""
+  },
+  {
+    "name": "Weekly Resources (Image)",
+    "schedule": "36 03 * * *",
+    "humanReadableSchedule": "Weekly Saturdays at 8pm",
+    "message": "As mentioned in today's session...we understand that your exams are around the corner but don't forget to give yourself a break! Rest up for a longer journey ahead!!! ALL THE BEST EVERYONE 🤩🔥",
+    "image": "https://dryuc24b85zbr.cloudfront.net/tes/resources/12526769/image?width=500&height=500&version=1620325012753"
+  },
+  {
+    "name": "Weekly Resources (YouTube Video)",
+    "schedule": "37 03 * * *",
+    "humanReadableSchedule": "Weekly Saturdays at 8pm",
+    "message": "Some resources as discussed today! For an additional boost to your learning, watch this short video for some tips to destress! Do reach out to your mentors if you are feeling overwhelmed ok! https://www.youtube.com/watch?v=grfXR6FAsI8",
+    "image": ""
+  }
+]
